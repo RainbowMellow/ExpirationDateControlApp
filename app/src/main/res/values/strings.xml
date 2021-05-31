@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ExpirationDateControlApp</string>
+    <string name="scanBtnText">Scan Product</string>
+    <string name="manualBtnText">Manual Input</string>
+    <string name="barcode">Barcode: </string>
+    <string name="productName">Product Name: </string>
+    <string name="expDate">Expiration Date: </string>
+    <string name="dateString">  / /  </string>
+    <string name="amount">Amount: </string>
+    <string name="cancel">Cancel</string>
+    <string name="save">Save</string>
+</resources>
